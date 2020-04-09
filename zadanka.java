@@ -1,4 +1,3 @@
-package zadania;
 import java.util.Scanner;
 public class zadanka {
 public static void main(String[] args)
