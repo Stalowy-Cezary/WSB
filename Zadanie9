@@ -9,7 +9,7 @@ for(;;)
 {
 	Scanner scan = new Scanner(System.in);
 	String litera = scan.nextLine();  // zgaduje literke
-	//vvvv jesli wpisuje literke ktora pasuje, dostaje odpowiedz na ktorym jest miejscu
+	//vvvv jesli dobrze wpisze cale haslo gra sie konczy
 	if(haslo.equals(litera))  
 	{
 		System.out.println("zwyciestwo!");
