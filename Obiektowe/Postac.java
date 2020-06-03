@@ -7,7 +7,7 @@ public class Postac {
 	}
 }
 	class Elf extends Postac{
-		float zwinnosc;
+		int zwinnosc;
 		Elf(int zdrowie, int atak, int zwinnosc){
 			super(zdrowie, atak);
 			this.zwinnosc = zwinnosc;
