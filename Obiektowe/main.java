@@ -36,7 +36,7 @@ public static void main(String[] args) {
 			open();
 			int zdrowie, atak, zwinnosc;
 			Scanner scan = new Scanner(System.in);
-			System.out.println("Wpisz statystyki!: ");
+			System.out.println("Wpisz statystyki swojej postaci (statystki przeciwnika zostana odpowiednio wylosowane: ");
 			System.out.println("Zdrowie: ");
 			zdrowie = scan.nextInt();
 			if (zdrowie > 999)
